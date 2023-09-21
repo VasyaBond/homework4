@@ -24,6 +24,6 @@ class Program
             }
         }
 
-        Console.WriteLine(); // Переход на новую строку для читаемости
+        Console.WriteLine(); // Переход на новую строку для читаемос
     }
 }
